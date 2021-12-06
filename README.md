@@ -1,2 +1,2 @@
 # springcloudConfig
-测试springcloudConfig公共配置服务
+version1.0
